@@ -1,0 +1,12 @@
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\AuthServiceApplication.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\config\SecurityConfig.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\repository\UserRepository.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\dto\LoginRequestDTO.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\service\CustomUserDetails.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\service\MyUserDetailsService.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\dto\UserDTO.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\service\UserService.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\util\JwtUtil.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\dto\JWTTokenResponseDTO.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\controller\AuthController.java
+C:\Users\ravik\OneDrive\Pictures\SpringBoot_youtube_transcript\ThreeProjects-Corrected\ThreeProjects-Fixed\auth-service\src\main\java\com\example\auth_service\model\User.java
